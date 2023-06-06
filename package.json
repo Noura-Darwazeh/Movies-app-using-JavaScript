@@ -1,0 +1,12 @@
+{
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+    
+  }
+  
+}
